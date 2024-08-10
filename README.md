@@ -1,3 +1,3 @@
-- VLSI_UNI.ppt is recommended to view first to get overall idea at a glance.
+- VLSI_UNI.ppt is recommended to view to get overall idea at a glance.
 - VLSI_UNI.pdf is the total description or report file.
 - project.zip is the cadence virtuoso file.
