@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      buet
+HostName                       cadence
+ProcessIdentifier              3789
+ProcessCreationTime_UTC        1707163568
+ProcessCreationTime_Readable   Tue Feb  6 02:06:08 2024 BDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/buet/Documents/Project/project/full_adder_project/constraint/hierDesign.oa.cdslck.dirlck
+TimeEditLocked                 Tue Feb  6 02:08:22 2024 BDT
